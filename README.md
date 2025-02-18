@@ -23,5 +23,7 @@ Welcome to my repository showcasing my **certifications, achievements, internshi
 ## 🏫 Workshops Conducted
 - 🖥️ **Selenium Testing Tool Workshop @ KLE Technological University (2023)**
 
-For more details, visit my LinkedIn: [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/trupti-hangirgekar-8ab5a425b/))
+For more details, visit my LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/trupti-hangirgekar-8ab5a425b/)
+
+
 my portfolio link: (https://sites.google.com/d/1ljLw3ugXL4srkSS3SyvpXos8av_pwNEQ/p/1bd5EF00TLerQKuTbR9H2aG4vTiwCf1Bi/edit?pli=1)
