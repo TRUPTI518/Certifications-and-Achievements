@@ -5,13 +5,14 @@ Welcome to my repository showcasing my **certifications, achievements, internshi
 ## 🏆 Technical Certifications
 - 📜 [Node.JS Bootcamp](node.jpg)
 - 📜 [Power Python Masterclass](py.jpg)
-- 📜 [SQL BOOTCAMP - IEEE SJCE](./Technical_Certifications/SQL_Bootcamp.pdf)
-- 📜 [JNCIA-Junos (Networking Basics)](./Technical_Certifications/JNCIA-Junos.pdf)
-- 📜 [CISCO Networking Basics](./Technical_Certifications/CISCO_Networking.pdf)
-- 📜 [Kubernetes & Docker](./Technical_Certifications/Kubernetes_Course.pdf)
+- 📜 [SQL BOOTCAMP - IEEE SJCE](sql.jpg)
+- 📜 [JNCIA-Junos (Networking Basics)](juno.jpg)
+- 📜 [CISCO Networking Basics](cisco.jpg)
+- 📜 [Certificate on participating in one day virtual workshop on
+“Building a GST Calculator application for Android & iOS”](calcu.jpg)
 
 ## 🌟 Most Proud Of
-- ✍️ **Co-authored five anthology books** (ISBN Verified)
+- ✍️ **Co-authored five anthology books** (ISBN Verified)(published-book certification.jpg)(published-book certifications.jpg)
 - 👩‍🎓 **Ladies Representative (2020-21)** - Organized multiple college events
 - 🎭 **Department Fest ASTERIA Organizer** - Led the "Face Painting" event (15+ teams)
 
@@ -22,4 +23,5 @@ Welcome to my repository showcasing my **certifications, achievements, internshi
 ## 🏫 Workshops Conducted
 - 🖥️ **Selenium Testing Tool Workshop @ KLE Technological University (2023)**
 
-For more details, visit my LinkedIn: [LinkedIn Profile](your-linkedin-url)
+For more details, visit my LinkedIn: [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/trupti-hangirgekar-8ab5a425b/))
+my portfolio link: (https://sites.google.com/d/1ljLw3ugXL4srkSS3SyvpXos8av_pwNEQ/p/1bd5EF00TLerQKuTbR9H2aG4vTiwCf1Bi/edit?pli=1)
