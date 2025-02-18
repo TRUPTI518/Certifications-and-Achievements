@@ -3,8 +3,8 @@
 Welcome to my repository showcasing my **certifications, achievements, internships, and workshops**. Here, you’ll find proof of my participation in various technical programs and leadership roles.
 
 ## 🏆 Technical Certifications
-- 📜 [Node.JS Bootcamp](./Technical_Certifications/NodeJS_Bootcamp.pdf)
-- 📜 [Power Python Masterclass](./Technical_Certifications/Power_Python.pdf)
+- 📜 [Node.JS Bootcamp](node.jpg)
+- 📜 [Power Python Masterclass](py.jpg)
 - 📜 [SQL BOOTCAMP - IEEE SJCE](./Technical_Certifications/SQL_Bootcamp.pdf)
 - 📜 [JNCIA-Junos (Networking Basics)](./Technical_Certifications/JNCIA-Junos.pdf)
 - 📜 [CISCO Networking Basics](./Technical_Certifications/CISCO_Networking.pdf)
